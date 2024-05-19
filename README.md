@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/122887367?s=400&v=4" alt="Centuryboys Logo">
+</p>
+
 # Centuryboys Manifesto
 
 ## About Us
